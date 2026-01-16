@@ -29,8 +29,7 @@ RUN echo "server.default_listen_address=0.0.0.0" >> /etc/neo4j/neo4j.conf && \
 #ENV NEO4J_AUTH=neo4j/project1phase1
 
 # Clone private GitHub repo using token
-RUN git clone https://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@github.com/SP-2025-CSE511-Data-Processing-at-Scale/Project-1-gmarimu1.git /cse511
-
+RUN git clone 
 # Set working directory
 WORKDIR /cse511
 
