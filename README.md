@@ -141,7 +141,3 @@ BFS Test 2: PASS
 
 ---
 
-## 📁 Repository & Attribution
-**Project Link:** [Neo4j-Graph-Data-Science-with-Docker-Implementation-](https://github.com/mganesh1610/Neo4j-Graph-Data-Science-with-Docker-Implementation-)
-
-*Developed as part of the Data Science & Engineering curriculum at Arizona State University.*
